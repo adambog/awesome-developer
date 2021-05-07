@@ -22,3 +22,5 @@ Collection of useful .NET tool and libraries
 - Json.NET
 
 source: https://www.youtube.com/watch?v=qapJwFY9y2Y
+
+more: https://github.com/quozd/awesome-dotnet
